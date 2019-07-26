@@ -10,5 +10,5 @@ For details on install the SAM CLI, see https://docs.aws.amazon.com/serverless-a
 To generate a project using this template, run:
 
 ```
-$ sam init --location gh:symphoniacloud/sam-templates/HelloWorldLambdaJava
+$ sam init --location gh:symphoniacloud/sam-init-HelloWorldLambdaJava-zip
 ```
