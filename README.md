@@ -1,5 +1,7 @@
 # Hello World Lambda Java
 
+**THIS REPOSITORY IS ARCHIVED AND UNMAINTANED. IT MAY NO LONGER WORK WITH RELEVANT DEPENDENCIES AND SERVICES**
+
 This is a "sam init" template to generate a "Hello World" AWS Lambda function, implemented in Java.
 
 This is an alternative to the similar project at https://github.com/symphoniacloud/sam-init-HelloWorldLambdaJava . 
